@@ -1,0 +1,25 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadadjiemaulana/birthday.git"
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "author": "Muhammad Adjie Maulana",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/muhammadadjiemaulana/birthday/issues"
+  },
+  "homepage": "https://github.com/muhammadadjiemaulana/birthday#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
